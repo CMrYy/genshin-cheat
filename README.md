@@ -5,17 +5,17 @@ Maybe not so simple cheat for certain anime game <sub><sup>Genshin Impact</sup><
 
 <h1 align="center">Getting Started</h1>
 
+### Release
+1. Head over to the [releases](https://github.com/CallowBlack/genshin-cheat/releases) page.
+1. Download the latest binaries.
+
 ### Building from source
-It is reccomended to use [Visual Studio 2022.](https://visualstudio.microsoft.com/)
+It is recommended to use [Visual Studio 2022.](https://visualstudio.microsoft.com/)
 As well as setting up **`genshin-cheat`** as startup project.
 **The following is a recommended procedure, but others may be used.**
 1. Clone repository with `git clone  --recurse-submodules https://github.com/CallowBlack/genshin-cheat`
 1. Open `genshin-cheat/genshincheat.sln`
 1. Build solution `genshincheat.sln`.
-
-### Release
-1. Head over to the releases page
-1. Download the latest binaries
 
 ### Usage
 (1-2 are optional if you didn't build from source)
